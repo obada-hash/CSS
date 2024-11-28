@@ -1,0 +1,55 @@
+p {
+    color: green;
+    font-size: 40px;
+    margin-left: 200px;
+    font-style: italic;
+    /* background-color: black; */
+
+}
+
+
+/* img {
+    size: 100px;
+} */
+
+
+.ple {
+     
+    color: purple;
+    font-style: normal;
+    font-weight: bold;
+    /* background-color: rgb(0 0 0  / 35%); */
+    background-image: url("../../Pictures/Lenovo/LenovoNow/icons/legion_game_shop.ico");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center center;
+    background-size: contain;
+}
+
+/* #ple {
+    color: purple;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
